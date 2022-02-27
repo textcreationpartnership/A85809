@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Hebrews deliverance at hand. Declared by me Joshuah Garment in Clarken-well New Prison.</title>
+            <author>Garment, Joshuah.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85809</idno>
+            <idno type="STC">Wing G261</idno>
+            <idno type="STC">Thomason E640_18</idno>
+            <idno type="STC">ESTC R206676</idno>
+            <idno type="EEBO-CITATION">99865791</idno>
+            <idno type="PROQUEST">99865791</idno>
+            <idno type="VID">165929</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85809)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165929)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 98:E640[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Hebrews deliverance at hand. Declared by me Joshuah Garment in Clarken-well New Prison.</title>
+                  <author>Garment, Joshuah.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed June 23. 1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug. 23."; June has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800.</term>
+               <term>Jews --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165929:1" rendition="simple:additions"/>
+            <p>THE HEBREWS Deliverance at hand.</p>
+            <p>Declared by me JOSHUAH GARMENT in <hi>Clarken-well</hi> New Priſon.</p>
+            <figure>
+               <figDesc>Tudor rose surmounted by a crown, used as a printer's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed June 23. 1651. <add>Aug. 23.</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165929:2"/>
+            <pb n="3" facs="tcp:165929:2"/>
+            <head>The <hi>Hebrews</hi> Deliverance at hand.</head>
+            <p>
+               <hi>To the honeſt Seeker, who waits in love and peace, till peace and love is eſtabiſhed in the Earth, in the power and pu<g ref="char:EOLhyphen"/>rity of the moſt High: Many and various are the reports of the people, but truth is the only jewel; it is not ſup<g ref="char:EOLhyphen"/>poſing will ſtand in the day of God; at the which day it will be known unto all men, that I</hi> Joſhuah Garment <hi>am the Prophet of the moſt high God; and then it will be made known that I am a true ſufferer.</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">I</seg>N the year 1631. as I lay waking upon my bed, the glory of the Lord ſhone about me, many Angels of light, in light, came unto me, ſtanding before me; the Angel that firſt ap<g ref="char:EOLhyphen"/>peared to me, ſpake theſe words unto me, <hi>Fear not thou ſervant of the moſt high God, we are ſent unto thee to protect thee from the power of the Devil:</hi> then the Angel told me that there ſhould be ſudden and ſtrange alterations in the world, as the taking away of Epiſ<g ref="char:EOLhyphen"/>copacy and Kingly Monarchy; alſo that the things might not be ſpoken until I had a command from God to ſpeak and declare the things; many a time in tears I ſaid, when and how long Lord? at the beginning of this War in <hi>England</hi> I expected that God would bring about his deſign by this Parlament, and was a Souldier three years; but then even in the height of my zeal, I was command<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to leave the Army; for the moſt high would only by the word of his mouth, and not by the power of man; I then obeyed the voice of the Lord and came forth of the Army; then ſuddenly after the word of the Lord came unto me, ſaying, <hi>Thou art within my new covenant, I will teach thee:</hi> The next day following the word of the Lord came unto me, ſaying, <hi>I the Lord appointed thee ſalvation from eternity, thou ſhalt eat of the bread
+<pb n="4" facs="tcp:165929:3"/>of life:</hi> Then at that time I had ſome bread given me by an Angel, and I did eat to my great joy and comfort.</p>
+            <p>I heard one calling unto me, <hi>Joſherbah, Joſherbah, the time draws near that the Jews, even the Hebrews muſt be gathered and delivered;</hi> Then I was carried into the South parts of the world, where I was ſhewed a company of gallant men, very grave and ſeeming holy; the Angel told me, pointing to them, <hi>all theſe are hypocrites;</hi> amongſt the which I ſaw a great Independent of <hi>Glo<g ref="char:EOLhyphen"/>ceſter</hi> that I knew; Then the Angel turned me to the right hand, and ſhewed me a poor ragged travelling diſpiſed people, with an innumerable company, ſaying, <hi>this is</hi> Levi's <hi>Tribe, and this is the whole houſe of</hi> Iſrael: Then I knew alſo that the Religious men ſhould oppoſe the deliverance of the <hi>Jews,</hi> and that the profeſſors, many of them, ſhould perſecute them even unto death, but the work ſhould go on.</p>
+            <p>In the year 1650. I ſaw the man called <hi>John Robins</hi> riding up<g ref="char:EOLhyphen"/>on the wings of the wind in great glory; then the word of the Lord came unto me, ſaying, <hi>this is thy Lord,</hi> Iſraels <hi>King, Judge, and Law giver;</hi> Thou muſt proclaim his day: Again, <hi>This is the Lord of hoſts, ſtrong and mighty in battel, that the doors and gates muſt open unto, that ſo he may enter in:</hi> Again, <hi>this is the</hi> Melchi<g ref="char:EOLhyphen"/>zedeck <hi>that</hi> Abraham <hi>met in the way, even the</hi> Adam <hi>that was the firſt created man, who is reſtored, ſet and ſent by God his Creator, with the name of God his Creator, God Almighty written upon him, even the firſt man is ſent by God his Creator, to gather and deliver the</hi> Hebrews <hi>without arms offenſive or defenſive, but only and alone in the power of the Lord God his Creator; and that all men ſhould oppoſe him, but not prevail:</hi> The word of the Lord came unto me, ſaying, <hi>this is he that ſhall in the Name and power of God the Crea<g ref="char:EOLhyphen"/>tor, divide the Seas, and lead the</hi> Hebrews <hi>to their own Land, even as</hi> Moſes <hi>did out of Egypt; and as</hi> Pharaoh <hi>could not prevail, but periſh, ſo ſhall his enemies periſh and not prevail.</hi> Therefore my dear breathren, take heed to your ſelves, for a great and ſudden blow will be ſuddenly, that will make heaven and earth to ſhake; to the confounding of all them that oppoſe the <hi>Jews</hi> deliverance; for I tell you in the name of God Almighty, Creator of all things, viſible and inviſible, even in his name that is only wiſe, immortal, in the heavens; that deliverance will be this year, and that the manchild will be born this year, even he that ſhall come and rule
+<pb n="5" facs="tcp:165929:3"/>with a rod of iron all Nations, breaking them to peeces like a pot<g ref="char:EOLhyphen"/>ters veſſel, and the Nations ſhall not avoid his government, for in righteouſneſs he will judge and make war, not with a ſword, but with the eternal word; yet the Kings of the earth muſt rage and murmur, fighting againſt the peaceable multitude that ſhall never bear arms offenſive or defenſive; but in ſuffering, commit them<g ref="char:EOLhyphen"/>ſelves unto God, who will in his time make love to flouriſh, to the overthrowing of the groſs hypocrites of theſe times; for the time is come that the peaceable multitude, that doth in holy faſtings, watchings and prayers, now even this year expect deliverance, and they ſhall be delivered: the Lord hath ſworn it, and he will perform it, for he hath ſaid that twenty days before next <hi>Micha<g ref="char:EOLhyphen"/>elmas</hi> day the ſea ſhall be divided, and many Jews that here are in <hi>England</hi> ſhall go thorow on dry foot towards <hi>Judea:</hi> and the Lord ſaid, I will gather all the Jews in the world unto one place, and with ſigns and wonders in great power bring them thorow all countries, bring in the ten Tribes unto us.</p>
+            <p>Again, I tell you in the name of God, that <hi>Iohn Robins</hi> is the man ordained by the Creator of heaven and earth to lead the Hebrews, Dividing the ſea in the power of God his Creator; take notice of what I ſay, for I am a Prophet of the moſt high God, that declare this unto you; I confeſs I was ſilent, but being demand<g ref="char:EOLhyphen"/>ed by a Juſtice what I ſaid of <hi>John Robins,</hi> I told him, and now alſo have told you the ſame, that if God is pleaſed to make men carp at truth, I ſhall in patience ſit ſtill, till God ſhews it them as he did to me; knowing that God only muſt ſatisfie and not man; for man may ſuppreſs for a time, but not change the heart, the change of the heart is only the proper work of God, and alone his work, and in the day of his power he will work and none ſhall hinder. O then! who ſhall ſtand? not the wiſe, not the prudent, not them that would be Lords over mens conſciences, but thoſe onely that in love and peace wait for deliverance onely from the God of peace and love: remember how the old world deſpiſed <hi>Noah,</hi> a preacher of Righteouſneſs; the Sodomites ſlighted <hi>Lot, Pharoah</hi> oppreſſed <hi>Moſes &amp; Aaron;</hi> and the Canaanites oppoſed <hi>Joſhuah,</hi> but it was all in vain: this ſtriving alſo is in vain, for God will do his work, and the ſtrivings againſt the deliverance of the Jews, and againſt their deliverer is in vain; God will do his work, and you, even many of you that are now gain-ſayers ſhall be de<g ref="char:EOLhyphen"/>livered
+<pb n="6" facs="tcp:165929:4"/>by him that you now ſcorn; and rejoyce in it to your ever<g ref="char:EOLhyphen"/>laſting comfort.</p>
+            <p>Conſider the ſtrange overturnings that have been in this Nation, contrary to mens expectations; and now a ſudden change will be, to the amazement of all men, and this change muſt be effected by the ſword of the ſpirit, not by the ſword of man; for now the time is at hand, <hi>Swords and ſpears muſt be made into plowſhares and pruning hooks, ſo that Nation ſhall not lift up ſword againſt Nation, neither ſhall men learn war any more:</hi> For when men hear of the coming of the peaceable man, they ſhall leave the war, and follow him that in peace and love is ſent to deliver them, and bring them into a full injoyment of eternal happineſs, every man ſitting under his own Vine and Fig-tree, none fraying them away. Conſider, that when <hi>the Son of man cometh he ſhall not find faith on the Earth;</hi> Remember, that before his coming men muſt deny the reſurrection, and ſay, where is the promiſe of his coming? and that love ſhould wax cold; Pride envies, Humility derided, Truces and Covenants broken, uproars in Nations; but when <hi>you ſhall ſee the ſign of the Son of man in the heavens,</hi> O then <hi>we ſhall mourn, looking on him whom they have pierced, even that Jeſus that died for us;</hi> then we ſhall mourn; I have told you, and alſo tell you, that thoſe that ſeek the gaining of victory over the peaceable people, they ſhall in the end fail and be broken. The many and various re<g ref="char:EOLhyphen"/>ports of me are made up by ſuch that know leaſt of me; my ſtate be<g ref="char:EOLhyphen"/>ing kept cloſe from men, is the cauſe they ſo rage and war againſt me with their tongues, but when the man upon the black horſe cometh forth with a pair of ballances in his hand, then it will be known, that the ſons of men cannot judge the truth of God by reaſon and their accurſed wills, but either by inſpiration, or immediate Revelation; then a meaſure of Wheat for a penny, and two meaſures of Barley for a penny; then pro<g ref="char:EOLhyphen"/>priety diſowned, and charity imbraced; then Faith and Works will eternally be marryed; but no Devils faith then, who alſo believe and tremble, but no power of God. Then St. <hi>Jame's</hi> Doctrine will be good, <hi>ſhew me thy Faith by thy works;</hi> not ho<g ref="char:EOLhyphen"/>nouring the great, and ſlighting the ſmall, but ſhewing love to all, that ſo God only be glorified and exalted; But what is this to a people that cannot endure ſound Doctrine? that have itching ears, not attained to the firſt principles of Religion? But it is my
+<pb n="7" facs="tcp:165929:4"/>comfort that I ſuffer for Truth, by ſuch as cannot judge Truth; It is to prepare for the battel of the Lamb; Haſte, haſte, haſte, thou man of Sin, thy time is ſhort, God will plague thee for thy judge<g ref="char:EOLhyphen"/>ing Truth to be blaſphemy; haſte, perſecute the people that live by water and bread: but thou ſhalt come to thine end, and none ſhall help thee; But we ſhall in the midſt of miſery be holpen by a little help, and when our Prince ſtands up, every one ſhall be delivered that is found written in the Book: Then wo, wo, wo, and well away, ſhall be to thee in that day; for when our God doth us call, O then muſt be thy wo! fall, fall, thou man of Sin; thy Law is Sword, thy thirſtings is after the bloud of thoſe that fear God. Remember thou man of Sin, that ſuddenly after thy fathers the Biſhops had drawn bloud from Mr. <hi>Burton,</hi> Mr. <hi>Baſt<g ref="char:EOLhyphen"/>wick,</hi> Mr. <hi>Lilborn,</hi> and Mr. <hi>Pryn,</hi> the fall of them was at hand: So <hi>I, Joſherbah, tauquan, tauquan, tauquarden, piſtauvah, Jah, pahſtauvah, Jah, achor, ab, ſha, bah, Jah:</hi> even <hi>Moſes</hi> the ſervant of the Lord, the Lords Scribe, <hi>Joſhua Garment;</hi>
+            </p>
+            <p>I declare unto thee thou man of Sin, that I am the Prophet of the Lord, ſent to proclaim the coming of the Lord; and if thou muſt like thy Anceſtors draw bloud from me, or any other Servant of God, it is for thy eternal deſtruction; the Lord hath ſaid it, I have told thee the day of the Lord is at hand, that ſhall burn as an Oven; then our God will ſave us, and thou ſhalt be as ſtubble; Then bloudy Prelates you all muſt down; your Tything Laws muſt have no room; the Lion is come out of the Wood to break thy pride and deſtroy thy guilded <hi>end, end, end:</hi> thy mixture is Iron and Clay, thy Morter not well tempered, it is like thy fa<g ref="char:EOLhyphen"/>thers the Biſhops, thy end like theirs; Think not thou proud new Prelate, that Judgement will not ſeiſe on thee as on them. I had hopes God would reform thee, but now I know he will deſtroy thee, and that ſuddenly, even before next <hi>March,</hi> 1652. But all of you of this Nation, that hath and doth ſtrive to protect the innocent, God will give you your reward at the appearing of Jeſus Chriſt, and then your Enemies ſhall not ſtand though in Co<g ref="char:EOLhyphen"/>venants and Arms againſt you; for God doth remember your care of his people, ſome of you; but thoſe that delight in bloud, he hath no pleaſure in them.</p>
+            <p>
+               <hi>To God the Father, God the Son, and God the holy Spirit, three Perſons, yet but one God eternal, not defined, nor confined, not
+<pb n="8" facs="tcp:165929:5"/>cloathed with mortal fleſh, and bone as we are, the only Creator of all things viſible and inviſible, who is not the Creation, nor any part of the Creation, whoſe being is in it ſelf only, to him only let be all glory, praiſe, power, praiſe for evermore,</hi> Amen.</p>
+            <p>
+               <hi>All the Nations of the Earth are as a drop of a bucket to him.</hi>
+            </p>
+            <p>Thus I have finiſhed this little Declaration; <hi>The grace of the Lord Ieſus Chriſt be with you, that love his appearing,</hi> Amen, Amen, <hi>and</hi> Amen.</p>
+            <closer>Come Lord Ieſus.
+<signed>Joſhuah Garment.</signed>
+               <dateline>Clarken well, New Priſon. <date>June 5<hi rend="sup">th.</hi> 1651.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>Farewel.</p>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
